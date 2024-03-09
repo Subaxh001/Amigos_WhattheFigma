@@ -1,0 +1,1800 @@
+.online-urse {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.online-course .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 5732px;
+    position: relative;
+}
+
+.online-course .overlap {
+    position: absolute;
+    width: 1920px;
+    height: 2613px;
+    top: 0;
+    left: 0;
+}
+.online-course .group {
+    position: absolute;
+    width: 570px;
+    height: 79px;
+    top: 695px;
+    left: 195px;
+}
+
+.online-course .overlap-group {
+    position: relative;
+    width: 568px;
+    height: 79px;
+    background-color: #ffffff;
+    border-radius: 96px;
+}
+
+.online-course .magnifying-glass {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 28px;
+    left: 21px;
+}
+
+.online-course .overlap-group-wrapper {
+    position: absolute;
+    width: 160px;
+    height: 69px;
+    top: 5px;
+    left: 399px;
+}
+
+.online-course .div-wrapper {
+    position: relative;
+    width: 158px;
+    height: 69px;
+    background-color: #4d2c5e;
+    border-radius: 96px;
+}
+
+.online-course .text-wrapper {
+    position: absolute;
+    top: 20px;
+    left: 29px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-2 {
+    position: absolute;
+    top: 28px;
+    left: 57px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #0f335e;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+
+
+.online-course .OBJECTS {
+    position: absolute;
+    width: 890px;
+    height: 544px;
+    top: 316px;
+    left: 830px;
+}
+
+.online-course .navbar {
+    position: absolute;
+    width: 560px;
+    height: 22px;
+    top: 69px;
+    left: 924px;
+}
+
+.online-course .text-wrapper-3 {
+    top: 1px;
+    left: 0;
+    position: absolute;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #1c1c1c;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-4 {
+    position: absolute;
+    top: 1px;
+    left: 94px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #1c1c1c;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-5 {
+    top: 1px;
+    left: 212px;
+    position: absolute;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #1c1c1c;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-6 {
+    top: 0;
+    left: 333px;
+    position: absolute;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #1c1c1c;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-7 {
+    position: absolute;
+    top: 1px;
+    left: 463px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #1c1c1c;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .overlap-wrapper {
+    position: absolute;
+    width: 193px;
+    height: 65px;
+    top: 47px;
+    left: 1534px;
+}
+
+.online-course .overlap-2 {
+    position: relative;
+    width: 191px;
+    height: 65px;
+    background-color: #4d2c5e;
+    border-radius: 218px;
+}
+
+.online-course .text-wrapper-8 {
+    position: absolute;
+    top: 18px;
+    left: 57px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .group-2 {
+    position: absolute;
+    width: 590px;
+    height: 291px;
+    top: 348px;
+    left: 194px;
+}
+
+.online-course .the-smart-choice-for {
+    position: absolute;
+    width: 586px;
+    top: 0;
+    left: 0;
+    font-family: "Roboto-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: transparent;
+    font-size: 69px;
+    letter-spacing: 0;
+    line-height: 93.2px;
+}
+
+.online-course .span {
+    color: #040c26;
+}
+
+.online-course .text-wrapper-9 {
+    color: #ff7426;
+}
+
+.online-course .p {
+    position: absolute;
+    width: 586px;
+    top: 195px;
+    left: 0;
+    font-family: "Roboto-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32.4px;
+}
+
+.online-course .img {
+    position: absolute;
+    width: 1788px;
+    height: 759px;
+    top: 172px;
+    left: 81px;
+}
+
+.online-course .group-3 {
+    position: absolute;
+    width: 1566px;
+    height: 1784px;
+    top: 54px;
+    left: 196px;
+}
+
+.online-course .text-wrapper-10 {
+    position: absolute;
+    top: 10px;
+    left: 66px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #1c1c1c;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32.4px;
+    white-space: nowrap;
+}
+
+.online-course .group-4 {
+    position: absolute;
+    width: 59px;
+    height: 52px;
+    top: 0;
+    left: 0;
+}
+
+.online-course .group-5 {
+    position: absolute;
+    width: 538px;
+    height: 474px;
+    top: 1310px;
+    left: 1026px;
+}
+
+.online-course .group-6 {
+    position: absolute;
+    width: 1432px;
+    height: 277px;
+    top: 948px;
+    left: 244px;
+    background-color: #4d2c5e;
+    border-radius: 14px;
+}
+
+.online-course .group-7 {
+    position: absolute;
+    width: 419px;
+    height: 137px;
+    top: 70px;
+    left: 35px;
+}
+
+.online-course .group-8 {
+    position: absolute;
+    width: 296px;
+    height: 137px;
+    top: 0;
+    left: 127px;
+}
+
+.online-course .text-wrapper-11 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-12 {
+    position: absolute;
+    width: 292px;
+    top: 49px;
+    left: 0;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff99;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 28px;
+}
+
+.online-course .rectangle-2 {
+    width: 102px;
+    height: 101px;
+    top: 0;
+    background-color: #ffffff33;
+    border-radius: 23px;
+    position: absolute;
+    left: 0;
+}
+
+.online-course .group-9 {
+    position: absolute;
+    width: 419px;
+    height: 137px;
+    top: 70px;
+    left: 504px;
+}
+
+.online-course .group-10 {
+    position: absolute;
+    width: 419px;
+    height: 137px;
+    top: 70px;
+    left: 973px;
+}
+
+.online-course .online-test {
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    top: 1042px;
+    left: 303px;
+    object-fit: cover;
+}
+
+.online-course .exam {
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    top: 1038px;
+    left: 768px;
+    object-fit: cover;
+}
+
+.online-course .certification {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 1039px;
+    left: 1238px;
+    object-fit: cover;
+}
+
+.online-course .group-11 {
+    position: absolute;
+    width: 496px;
+    height: 489px;
+    top: 2124px;
+    left: 1235px;
+}
+
+.online-course .overlap-3 {
+    position: relative;
+    width: 490px;
+    height: 489px;
+}
+
+.online-course .div-2 {
+    width: 490px;
+    height: 457px;
+    top: 0;
+    background-color: #ffffff;
+    border-radius: 14px;
+    box-shadow: 0px 4px 25px #0000001a;
+    position: absolute;
+    left: 0;
+}
+
+.online-course .group-12 {
+    position: absolute;
+    width: 464px;
+    height: 238px;
+    top: 14px;
+    left: 13px;
+}
+
+.online-course .text-wrapper-13 {
+    position: absolute;
+    top: 297px;
+    left: 13px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .text-wrapper-14 {
+    position: absolute;
+    top: 327px;
+    left: 13px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ff7426;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .text-wrapper-15 {
+    position: absolute;
+    top: 270px;
+    left: 13px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #acacac;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .group-13 {
+    position: absolute;
+    width: 374px;
+    height: 28px;
+    top: 382px;
+    left: 13px;
+}
+
+.online-course .group-14 {
+    position: absolute;
+    width: 118px;
+    height: 24px;
+    top: 2px;
+    left: 0;
+}
+
+.online-course .text-wrapper-16 {
+    position: absolute;
+    top: 0;
+    left: 25px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #acacac;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .time-svgrepo-com {
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    top: 3px;
+    left: 0;
+}
+
+.online-course .group-15 {
+    position: absolute;
+    width: 128px;
+    height: 28px;
+    top: 0;
+    left: 130px;
+}
+
+.online-course .text-wrapper-17 {
+    position: absolute;
+    top: 2px;
+    left: 35px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #acacac;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .video-svgrepo-com {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 0;
+    left: 0;
+}
+
+.online-course .group-16 {
+    position: absolute;
+    width: 106px;
+    height: 24px;
+    top: 2px;
+    left: 270px;
+}
+
+.online-course .text-wrapper-18 {
+    top: 0;
+    left: 27px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #acacac;
+    font-size: 16px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .download-svgrepo-com {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 3px;
+    left: 0;
+}
+
+.online-course .group-17 {
+    top: 434px;
+    left: 142px;
+    position: absolute;
+    width: 209px;
+    height: 55px;
+}
+
+.online-course .overlap-group-2 {
+    position: relative;
+    width: 207px;
+    height: 55px;
+    background-color: #ff7426;
+    border-radius: 96px;
+}
+
+.online-course .text-wrapper-19 {
+    position: absolute;
+    top: 13px;
+    left: 36px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .line {
+    width: 464px;
+    top: 365px;
+    left: 13px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+}
+
+.online-course .group-18 {
+    position: absolute;
+    width: 88px;
+    height: 207px;
+    top: 274px;
+    left: 389px;
+}
+
+.online-course .text-wrapper-20 {
+    position: absolute;
+    width: 254px;
+    top: 1326px;
+    left: 224px;
+    font-family: "Jost-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: 70px;
+    white-space: nowrap;
+}
+
+.online-course .group-19 {
+    position: absolute;
+    width: 450px;
+    height: 782px;
+    top: 1378px;
+    left: 1470px;
+}
+
+.online-course .text-wrapper-21 {
+    position: absolute;
+    width: 938px;
+    top: 1416px;
+    left: 224px;
+    font-family: "Roboto-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32.4px;
+}
+
+.online-course .overlap-4 {
+    position: absolute;
+    width: 490px;
+    height: 485px;
+    top: 2124px;
+    left: 195px;
+}
+
+.online-course .text-wrapper-22 {
+    position: absolute;
+    top: 292px;
+    left: 13px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .text-wrapper-23 {
+    top: 322px;
+    left: 13px;
+    position: absolute;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ff7426;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .text-wrapper-24 {
+    position: absolute;
+    top: 265px;
+    left: 13px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #acacac;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .group-20 {
+    left: 13px;
+    position: absolute;
+    width: 374px;
+    height: 28px;
+    top: 378px;
+}
+
+.online-course .group-21 {
+    top: 430px;
+    left: 142px;
+    position: absolute;
+    width: 209px;
+    height: 55px;
+}
+
+.online-course .line-2 {
+    left: 13px;
+    position: absolute;
+    width: 464px;
+    height: 1px;
+    top: 361px;
+    object-fit: cover;
+}
+
+.online-course .group-22 {
+    left: 389px;
+    position: absolute;
+    width: 88px;
+    height: 16px;
+    top: 270px;
+}
+
+.online-course .group-23 {
+    position: absolute;
+    width: 496px;
+    height: 485px;
+    top: 2124px;
+    left: 715px;
+}
+
+.online-course .overlap-5 {
+    position: relative;
+    width: 490px;
+    height: 485px;
+}
+
+.online-course .text-wrapper-25 {
+    position: absolute;
+    top: 293px;
+    left: 14px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .text-wrapper-26 {
+    top: 323px;
+    left: 14px;
+    position: absolute;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ff7426;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .text-wrapper-27 {
+    position: absolute;
+    top: 266px;
+    left: 14px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #acacac;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .group-24 {
+    left: 14px;
+    position: absolute;
+    width: 374px;
+    height: 28px;
+    top: 378px;
+}
+
+.online-course .group-25 {
+    top: 430px;
+    left: 143px;
+    position: absolute;
+    width: 209px;
+    height: 55px;
+}
+
+.online-course .line-3 {
+    left: 14px;
+    position: absolute;
+    width: 464px;
+    height: 1px;
+    top: 361px;
+    object-fit: cover;
+}
+
+.online-course .group-26 {
+    left: 390px;
+    position: absolute;
+    width: 88px;
+    height: 16px;
+    top: 270px;
+}
+
+.online-course .text-wrapper-28 {
+    width: 254px;
+    top: 1959px;
+    left: 833px;
+    position: absolute;
+    font-family: "Jost-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: 70px;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-29 {
+    position: absolute;
+    width: 507px;
+    top: 2028px;
+    left: 707px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #8a8a8a;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .casual-life-idea {
+    top: 1944px;
+    left: 81px;
+    position: absolute;
+    width: 142px;
+    height: 135px;
+    object-fit: cover;
+}
+
+.online-course .overlap-6 {
+    position: absolute;
+    width: 1920px;
+    height: 707px;
+    top: 2735px;
+    left: 0;
+}
+
+.online-course .rectangle-3 {
+    width: 1920px;
+    height: 636px;
+    top: 0;
+    background-color: #fdf8ee;
+    position: absolute;
+    left: 0;
+}
+
+.online-course .OBJECTS-2 {
+    position: absolute;
+    width: 517px;
+    height: 644px;
+    top: 63px;
+    left: 224px;
+}
+
+.online-course .premium-learning {
+    position: absolute;
+    width: 586px;
+    top: 78px;
+    left: 887px;
+    font-family: "Roboto-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: transparent;
+    font-size: 69px;
+    letter-spacing: 0;
+    line-height: 93.2px;
+}
+
+.online-course .group-27 {
+    position: absolute;
+    width: 715px;
+    height: 101px;
+    top: 311px;
+    left: 887px;
+}
+
+.online-course .text-wrapper-30 {
+    position: absolute;
+    width: 586px;
+    top: 57px;
+    left: 125px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #8a8a8a;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: 44.5px;
+}
+
+.online-course .text-wrapper-31 {
+    position: absolute;
+    width: 239px;
+    top: 3px;
+    left: 125px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #040c26;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 51.3px;
+}
+
+.online-course .rectangle-4 {
+    position: absolute;
+    width: 102px;
+    height: 101px;
+    top: 0;
+    left: 0;
+    background-color: #4d2c5e;
+    border-radius: 23px;
+}
+
+.online-course .group-28 {
+    position: absolute;
+    width: 715px;
+    height: 101px;
+    top: 446px;
+    left: 887px;
+}
+
+.online-course .group-29 {
+    position: absolute;
+    width: 78px;
+    height: 77px;
+    top: 537px;
+    left: 693px;
+}
+
+.online-course .group-30 {
+    position: absolute;
+    width: 93px;
+    height: 95px;
+    top: 63px;
+    left: 259px;
+}
+
+.online-course .group-31 {
+    position: absolute;
+    width: 106px;
+    height: 94px;
+    top: 235px;
+    left: 113px;
+}
+
+.online-course .group-32 {
+    position: absolute;
+    width: 82px;
+    height: 86px;
+    top: 83px;
+    left: 686px;
+}
+
+.online-course .group-33 {
+    position: absolute;
+    width: 94px;
+    height: 117px;
+    top: 470px;
+    left: 127px;
+}
+
+.online-course .group-34 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 394px;
+    left: 726px;
+}
+
+.online-course .hearts {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    top: 336px;
+    left: 912px;
+    object-fit: cover;
+}
+
+.online-course .jigsaw {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    top: 471px;
+    left: 912px;
+    object-fit: cover;
+}
+
+.online-course .overlap-7 {
+    position: absolute;
+    width: 1924px;
+    height: 411px;
+    top: 5395px;
+    left: 0;
+}
+
+.online-course .rectangle-5 {
+    width: 1920px;
+    height: 411px;
+    top: 0;
+    background-color: #fdf8ee;
+    position: absolute;
+    left: 0;
+}
+
+.online-course .footer {
+    position: absolute;
+    width: 1924px;
+    height: 292px;
+    top: 45px;
+    left: 0;
+    background-color: transparent;
+}
+
+.online-course .lorem-ipsum-is {
+    width: 318px;
+    top: 62px;
+    left: 196px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #5f5f5f;
+    font-size: 19px;
+    text-align: justify;
+    line-height: 31px;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.online-course .group-35 {
+    position: absolute;
+    width: 141px;
+    height: 227px;
+    top: 0;
+    left: 632px;
+}
+
+.online-course .text-wrapper-32 {
+    position: absolute;
+    top: 58px;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #5f5f5f;
+    font-size: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-33 {
+    position: absolute;
+    top: 107px;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #5f5f5f;
+    font-size: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-34 {
+    position: absolute;
+    top: 156px;
+    left: 1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #5f5f5f;
+    font-size: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-35 {
+    position: absolute;
+    top: 205px;
+    left: 1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #5f5f5f;
+    font-size: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-36 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #00052e;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .group-36 {
+    position: absolute;
+    width: 110px;
+    height: 225px;
+    top: 0;
+    left: 1185px;
+}
+
+.online-course .text-wrapper-37 {
+    position: absolute;
+    top: 155px;
+    left: 1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #5f5f5f;
+    font-size: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-38 {
+    position: absolute;
+    top: 203px;
+    left: 1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #5f5f5f;
+    font-size: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .overlap-group-3 {
+    position: absolute;
+    width: 297px;
+    height: 183px;
+    top: 0;
+    left: 807px;
+}
+
+.online-course .text-wrapper-39 {
+    position: absolute;
+    top: 161px;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #5f5f5f;
+    font-size: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.online-course .group-37 {
+    position: absolute;
+    width: 122px;
+    height: 177px;
+    top: 0;
+    left: 110px;
+}
+
+.online-course .group-38 {
+    position: absolute;
+    width: 241px;
+    height: 200px;
+    top: 0;
+    left: 1439px;
+}
+
+.online-course .element-skinner-hollow {
+    top: 156px;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #5f5f5f;
+    font-size: 19px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .line-4 {
+    width: 1920px;
+    top: 291px;
+    left: 0;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+}
+
+.online-course .group-39 {
+    position: absolute;
+    width: 187px;
+    height: 52px;
+    top: 31px;
+    left: 196px;
+}
+
+.online-course .overlap-8 {
+    position: absolute;
+    width: 3281px;
+    height: 1885px;
+    top: 3500px;
+    left: -628px;
+}
+
+.online-course .overlap-9 {
+    position: absolute;
+    width: 2458px;
+    height: 1455px;
+    top: 430px;
+    left: 823px;
+}
+
+.online-course .group-40 {
+    position: absolute;
+    width: 1432px;
+    height: 429px;
+    top: 910px;
+    left: 49px;
+}
+
+.online-course .group-41 {
+    position: absolute;
+    width: 490px;
+    height: 629px;
+    top: 294px;
+    left: 1040px;
+}
+
+.online-course .overlap-10 {
+    position: relative;
+    height: 629px;
+}
+
+.online-course .group-42 {
+    position: absolute;
+    width: 472px;
+    height: 362px;
+    top: 267px;
+    left: 13px;
+}
+
+.online-course .overlap-11 {
+    position: absolute;
+    width: 275px;
+    height: 53px;
+    top: 0;
+    left: 0;
+}
+
+.online-course .text-wrapper-40 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .text-wrapper-41 {
+    position: absolute;
+    top: 29px;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #858585;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .text-wrapper-42 {
+    position: absolute;
+    top: 140px;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #ff7426;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.online-course .ut-enim-ad-minim {
+    position: absolute;
+    width: 451px;
+    top: 68px;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #acacac;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 24.8px;
+}
+
+.online-course .group-43 {
+    position: absolute;
+    width: 88px;
+    height: 229px;
+    top: 133px;
+    left: 376px;
+}
+
+.online-course .instagram-logo-wrapper {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    top: 0;
+    left: 0;
+    background-color: #f9f9f9;
+}
+
+.online-course .img-2 {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 8px;
+    left: 8px;
+    object-fit: cover;
+}
+
+.online-course .element-wrapper {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    top: 191px;
+    left: 50px;
+    background-color: #f9f9f9;
+}
+
+.online-course .ellipse-2 {
+    position: absolute;
+    width: 960px;
+    height: 778px;
+    top: 0;
+    left: 1498px;
+    background-color: #ff74261a;
+    border-radius: 480px/389px;
+    filter: blur(254px);
+}
+
+.online-course .group-44 {
+    position: absolute;
+    width: 168px;
+    height: 177px;
+    top: 1193px;
+    left: 182px;
+}
+
+.online-course .casual-life {
+    position: absolute;
+    width: 120px;
+    height: 68px;
+    top: 59px;
+    left: 1459px;
+    object-fit: cover;
+}
+
+.online-course .casual-life-d-idea {
+    top: 1162px;
+    left: 1183px;
+    position: absolute;
+    width: 142px;
+    height: 135px;
+    object-fit: cover;
+}
+
+.online-course .ellipse-3 {
+    position: absolute;
+    width: 350px;
+    height: 284px;
+    top: 1125px;
+    left: 0;
+    background-color: #ff74261a;
+    border-radius: 175px/142px;
+    filter: blur(254px);
+}
+
+.online-course .ellipse-4 {
+    position: absolute;
+    width: 350px;
+    height: 284px;
+    top: 1171px;
+    left: 1254px;
+    background-color: #ff74261a;
+    border-radius: 175px/142px;
+    filter: blur(254px);
+}
+
+.online-course .overlap-12 {
+    position: absolute;
+    width: 2238px;
+    height: 1139px;
+    top: 42px;
+    left: 0;
+}
+
+.online-course .group-wrapper {
+    position: absolute;
+    width: 490px;
+    height: 457px;
+    top: 682px;
+    left: 823px;
+    background-color: #ffffff;
+    border-radius: 14px;
+    box-shadow: 0px 4px 25px #0000001a;
+}
+
+.online-course .group-45 {
+    position: absolute;
+    width: 1300px;
+    height: 352px;
+    top: 108px;
+    left: 938px;
+}
+
+.online-course .group-46 {
+    position: absolute;
+    width: 419px;
+    height: 258px;
+    top: 0;
+    left: 442px;
+}
+
+.online-course .overlap-13 {
+    position: relative;
+    width: 417px;
+    height: 258px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 88px #0000000d;
+}
+
+.online-course .rectangle-6 {
+    width: 416px;
+    height: 255px;
+    top: 0;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 88px #0000000d;
+    position: absolute;
+    left: 0;
+}
+
+.online-course .text-wrapper-43 {
+    position: absolute;
+    top: 32px;
+    left: 32px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #acacac;
+    font-size: 19px;
+    letter-spacing: 0.38px;
+    line-height: 29.7px;
+}
+
+.online-course .group-47 {
+    position: absolute;
+    width: 237px;
+    height: 47px;
+    top: 176px;
+    left: 32px;
+}
+
+.online-course .ellipse-5 {
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.online-course .group-48 {
+    position: absolute;
+    width: 178px;
+    height: 44px;
+    top: 0;
+    left: 63px;
+}
+
+.online-course .overlap-group-4 {
+    position: relative;
+    width: 174px;
+    height: 44px;
+}
+
+.online-course .text-wrapper-44 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #353535;
+    font-size: 17px;
+    letter-spacing: 0.34px;
+    line-height: 26.6px;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-45 {
+    top: 24px;
+    position: absolute;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #8e8e8e;
+    font-size: 13px;
+    letter-spacing: 0.26px;
+    line-height: 20.3px;
+    white-space: nowrap;
+}
+
+.online-course .group-49 {
+    position: absolute;
+    width: 419px;
+    height: 258px;
+    top: 0;
+    left: 883px;
+}
+
+.online-course .there-are-many {
+    position: absolute;
+    top: 32px;
+    left: 27px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #acacac;
+    font-size: 19px;
+    letter-spacing: 0.38px;
+    line-height: 29.7px;
+}
+
+.online-course .group-50 {
+    width: 201px;
+    left: 27px;
+    position: absolute;
+    height: 47px;
+    top: 176px;
+}
+
+.online-course .group-51 {
+    position: absolute;
+    width: 143px;
+    height: 45px;
+    top: 1px;
+    left: 62px;
+}
+
+.online-course .overlap-group-5 {
+    position: relative;
+    width: 139px;
+    height: 45px;
+}
+
+.online-course .text-wrapper-46 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #353535;
+    font-size: 17px;
+    letter-spacing: 0.34px;
+    line-height: 26.6px;
+    white-space: nowrap;
+}
+
+.online-course .UI-UX-design {
+    position: absolute;
+    top: 25px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #8e8e8e;
+    font-size: 13px;
+    letter-spacing: 0.26px;
+    line-height: 20.3px;
+    white-space: nowrap;
+}
+
+.online-course .group-52 {
+    position: absolute;
+    width: 419px;
+    height: 258px;
+    top: 0;
+    left: 0;
+}
+
+.online-course .group-53 {
+    width: 161px;
+    left: 32px;
+    position: absolute;
+    height: 47px;
+    top: 176px;
+}
+
+.online-course .group-54 {
+    position: absolute;
+    width: 102px;
+    height: 46px;
+    top: 0;
+    left: 63px;
+}
+
+.online-course .overlap-group-6 {
+    position: relative;
+    width: 98px;
+    height: 46px;
+}
+
+.online-course .text-wrapper-47 {
+    top: 26px;
+    position: absolute;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #8e8e8e;
+    font-size: 13px;
+    letter-spacing: 0.26px;
+    line-height: 20.3px;
+    white-space: nowrap;
+}
+
+.online-course .group-55 {
+    position: absolute;
+    width: 126px;
+    height: 14px;
+    top: 338px;
+    left: 587px;
+}
+
+.online-course .ellipse-6 {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 0;
+    left: 83px;
+    background-color: #c2c2c2;
+    border-radius: 7px;
+}
+
+.online-course .ellipse-7 {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 0;
+    left: 112px;
+    background-color: #c2c2c2;
+    border-radius: 7px;
+}
+
+.online-course .ellipse-8 {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 0;
+    left: 54px;
+    background-color: #c2c2c2;
+    border-radius: 7px;
+}
+
+.online-course .rectangle-7 {
+    width: 39px;
+    height: 12px;
+    top: 1px;
+    background-color: #4d2c5e;
+    border-radius: 32px;
+    position: absolute;
+    left: 0;
+}
+
+.online-course .group-56 {
+    top: 949px;
+    left: 836px;
+    position: absolute;
+    width: 472px;
+    height: 171px;
+}
+
+.online-course .group-57 {
+    position: absolute;
+    width: 88px;
+    height: 38px;
+    top: 133px;
+    left: 376px;
+}
+
+.online-course .img-wrapper {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    top: 0;
+    left: 50px;
+    background-color: #f9f9f9;
+}
+
+.online-course .ellipse-9 {
+    position: absolute;
+    width: 960px;
+    height: 778px;
+    top: 0;
+    left: 0;
+    background-color: #ff74261a;
+    border-radius: 480px/389px;
+    filter: blur(254px);
+}
+
+.online-course .group-58 {
+    position: absolute;
+    width: 168px;
+    height: 177px;
+    top: 358px;
+    left: 747px;
+}
+
+.online-course .group-59 {
+    position: absolute;
+    width: 490px;
+    height: 457px;
+    top: 724px;
+    left: 1343px;
+    background-color: #ffffff;
+    border-radius: 14px;
+    box-shadow: 0px 4px 25px #0000001a;
+}
+
+.online-course .group-60 {
+    top: 267px;
+    left: 14px;
+    position: absolute;
+    width: 472px;
+    height: 171px;
+}
+
+.online-course .overlap-14 {
+    position: absolute;
+    width: 507px;
+    height: 99px;
+    top: 559px;
+    left: 1335px;
+}
+
+.online-course .text-wrapper-48 {
+    top: 0;
+    left: 123px;
+    position: absolute;
+    font-family: "Jost-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: 70px;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-49 {
+    width: 507px;
+    top: 69px;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #8a8a8a;
+    font-size: 20px;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.online-course .what-student-s-say {
+    position: absolute;
+    width: 418px;
+    top: 0;
+    left: 1379px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #040c26;
+    font-size: 40px;
+    letter-spacing: 0.8px;
+    line-height: 67px;
+    white-space: nowrap;
+}
+
+.online-course .text-wrapper-50 {
+    width: 507px;
+    top: 69px;
+    left: 1335px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #8a8a8a;
+    font-size: 20px;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+}
